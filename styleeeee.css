@@ -1,0 +1,128 @@
+body{
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navegacion{
+    background: green;
+}
+
+.navegacion a{
+    font-size: 25px;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 10px;
+}
+.navegacion ul{
+    display: flex;
+}
+
+form{
+    width: 940px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+form div{
+    margin: 50px 0 50px;
+}
+
+
+form h1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navegacion div{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+form h1{
+    font-family: "Montserrat", sans-serif;
+    padding: 10px;
+}
+form p{
+    text-align: justify;
+    width: 50%;
+    font-family: "Montserrat", sans-serif;
+    padding: 10px;
+}
+
+div label{
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.input-padron{
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    margin: 8px;
+}
+
+.klk{
+    width: 50%;
+    display: block;
+    border-radius: 6px;
+    font-size: 20px;
+    background: darkgreen;
+    color: #ffffff;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    transition: 1s all;
+    cursor:pointer;
+}
+
+
+.klk:hover{
+    background: green;
+    transform: scale(1.2);
+}
+
+a{
+    font-size: 12px;
+    padding: 10px 10px;
+    display: inline-flex;
+}
+
+footer{
+    background: green;
+    margin: 0 auto;
+}
+
+footer div{
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0 20px;
+}
+
+footer p{
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.contacto{
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 10px 0 20px;
+}
+
+.cabeza{
+    color: #ffffff;
+    font-weight: bold;
+    margin: 10px 0 10px;
+}
+
+
+
+
+
+
